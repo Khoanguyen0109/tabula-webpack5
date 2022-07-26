@@ -1,0 +1,9 @@
+{
+    "school_name": "School Name",
+    "use_for_curriculum_topic": "Use for Curriculum Topic",
+    "use_curriculum_topic_success": "This course template is ready for use in Curriculum Topic.",
+    "remove_template_from_topic": "Remove course template?",
+    "remove_template_from_topic_message": "This course template will be unlinked in Curriculum Topic. Are you sure you want to unlink?",
+    "unlink": "Unlink",
+    "unlink_curriculum_success": "This course template is unlinked in Curriculum Topic."
+}

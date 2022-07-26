@@ -1,0 +1,14 @@
+{
+  "action_topic": "{{action}} Topic",
+  "all_subjects": "All Subjects",
+  "all_grades": "All Grades",
+  "topic_name": "topic name",
+  "subject_placeholder": "Select a subject",
+  "grade_level_placeholder": "Select a grade level",
+  "publish_in_portal": "Publish In Portal",
+  "portal_course": "Portal Course",
+  "delete_form_title": "Delete this topic?",
+  "actions_success": "Topic {{action}}",
+  "message_error": "Something went wrong, try again.",
+  "placeholder_portal_course": "Select a course template"
+}

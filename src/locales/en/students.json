@@ -1,0 +1,19 @@
+{
+  "search_students": "Search Students...",
+  "students": "Students",
+  "edit_student": "Edit Student",
+  "delete_student": "Delete Student",
+  "restore_student": "Restore Student",
+  "suspend_student": "Suspend Student",
+  "student_has_not_confirmed_new_email_address": "Student has not confirmed new email address",
+  "student_not_accept_invitation": "Student has not accepted invitation.",
+  "student_expired": "Student has been expired.",
+  "student_locked": "Student has been locked.",
+  "student_has_not_reset_password": "Student is requested to reset password.",
+  "guardian_1": "Guardian 1",
+  "guardian_2": "Guardian 2",
+  "guardians_name": "Guardians Name",
+  "invite_new_student": "Invite New Student",
+  "student_suspended": "Student has been suspended.",
+  "view_guardian_list": "View Guardians List"
+}

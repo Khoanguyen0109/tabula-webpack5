@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "85RTF3PDR6.com.tabulalearning.staging-new",
+                "paths": [ "/setup-account/*", "/set-password/*", "/redirect-oauth-callback/*"]
+            },
+            {
+                "appID": "85RTF3PDR6.com.tabulalearning.tabula",
+                "paths": [ "/setup-account/*", "/set-password/*", "/redirect-oauth-callback/*"]
+            },
+            {
+                "appID": "85RTF3PDR6.com.codestringers.tabuladev",
+                "paths": [ "/setup-account/*", "/set-password/*", "/redirect-oauth-callback/*"]
+            },
+
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "domain_settings":"Domain Settings",
+  "school_domain": "School Domain",
+  "organization_information" : "Organization Information",
+  "organization_name" : "Organization Name",
+  "time_zone_settings" : "Time Zone Settings",
+  "terms_and_grading_periods" : "Terms & Grading Periods",
+  "my_school_uses" : "My School Uses",
+  "number_of_grading_periods" : "Use Grading Periods for Terms",
+  "term_and_number":"Term {{number}}",
+  "grading_period_and_number":"Grading Period {{number}}",
+  "no_terms":"No Terms",
+  "semesters":"Semesters",
+  "trimesters":"Trimesters",
+  "quarters":"Quarters"
+}

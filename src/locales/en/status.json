@@ -1,0 +1,10 @@
+{
+  "draft": "Draft",
+  "published": "Published",
+  "assigned_late": "Assigned (Late)",
+  "closed": "Closed",
+  "ready_to_assign": "Ready To Assign",
+  "assigned": "Assigned",
+  "publish": "Publish",
+  "publish_visible": "Publish Visible"
+}

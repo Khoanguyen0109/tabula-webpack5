@@ -1,0 +1,10 @@
+{
+  "delete_object": "Delete <0>{{name}}</0>?",
+  "remove_object": "Remove {{objectName}} from this {{object}}?",
+  "consolidateMessage": "Do you want to publish this course activity to all sections?",
+  "consolidate_due_time_info": "The section(s) below does not have class session in {{dueTimeName}}. Please pick another due time.",
+  "consolidate_dialog_information": "The system were not able to create this test for section <0>{{object}}</0> because their respective class sessions are in the past. If you still need this to happen, please contact your administrator.",
+  "consolidate_dialog_information_plural": "The system were not able to create this test for sections <0>{{object}}</0> because their respective class sessions are in the past. If you still need this to happen, please contact your administrator.",
+  "consolidate_dialog_information_assignment" : "The section items not having respective class sessions in the “Due On“ course day are going to be unlinked from the master item."
+
+}

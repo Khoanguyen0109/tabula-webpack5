@@ -1,0 +1,14 @@
+{
+  "create_template": "Create Template",
+  "publish_to_school_library": "Publish to school library?",
+  "publish": "Publish",
+  "unpublish": "Unpublish",
+  "on_publish_to_school_message": "Once this template has been published, it will be sent to school library. Are you sure you want to publish?",
+  "un_publish_school_library": "Remove this template from school library?",
+  "un_publish_school_library_message": "This course template will be also removed in school library. Are you sure you want to unpublish?",
+  "unable_tooltip": "Unable to edit/delete the published course template.",
+  "publish_to_district": "Publish to district library?",
+  "on_publish_to_district_message": "Once this template has been published, it will be sent to district library. Are you sure you want to publish?",
+  "delete_course_template": "Delete this course template?",
+  "delete_course_template_message": "This course template will be deleted in the template lists. Are you sure you want to delete?"
+}

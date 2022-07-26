@@ -1,0 +1,23 @@
+{
+  "nudge_text": "Send Nudge",
+  "your_nude_have_been_sent": "Your nudge have been sent to student",
+  "notification_is_being_blocked": "Notification is being blocked",
+  "last_available_moment": "Last Available Moment",
+  "last_available_moment_9a1": "This is a warning that you need to start working on {{task_name}} for {{course_name}} now in order to complete it on time. We've looked at your schedule and task list and have determined that this is the LAST POSSIBLE MOMENT to get it done. So please get started now.",
+  "last_available_moment_9a2": "This is your second warning that you need to start working on {{task_name}} for {{course_name}} now in order to complete it on time.  If we don't hear from you in the next {{next_minutes}} minutes, your guardian will get a message from us. So please get started now.",
+  "last_available_moment_9a3": "Hello, we would like to inform you that {{student_name}} has this task [task name] for {{course_name}} that is due {{due_on}}, and now is the last possible moment for them to complete it.  We've notified them twice and haven't heard from them. Would you like to send {{student_first_name}}a nudge?",
+  "last_available_moment_9a4": "<b>Your guardian has sent you a message regarding urgent assignments:</b> {{nudge_text}}",
+  "last_available_moment_9a5": " ",
+  "last_available_moment_9a6": "",
+  "start_now": "Start now",
+  "start_urgent_task": "Start Urgent Task",
+  "remind_me_later": "Remind me later",
+  "request_permission_title": "Tabula would like to show you notifications to help you stay informed with:",
+  "request_permission_student_content_1": "-When you should start doing your homework before it’s too late. ",
+  "request_permission_student_content_2": "-Your study schedule.",
+  "request_permission_guardian_content_1": "- When your student should start their homework before it's too late.",
+  "request_permission_guardian_content_2": "- When they ignore our attempts of reminding them to do their homework.",
+  "click_allow_instruction": "Click “Allow” on the permission request popup to turn it on.",
+  "turn_on_notification": "Turn on Notification",
+  "later": "Later"
+}

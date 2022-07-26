@@ -1,0 +1,10 @@
+<svg id="icn_Upload" xmlns="http://www.w3.org/2000/svg" width="40" height="48" viewBox="0 0 40 48">
+  <g id="border" fill="#fff" stroke="#e5e5e5" stroke-width="1">
+    <rect width="40" height="48" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="47" rx="7.5" fill="none"/>
+  </g>
+  <g id="arrow_upward" transform="translate(8 16)" fill="#c3c3c3">
+     <path id="Path_887" data-name="Path 887" d="M13,19V7.83l4.88,4.88a1.008,1.008,0,0,0,1.42,0,1,1,0,0,0,0-1.41L12.71,4.71a1,1,0,0,0-1.41,0L4.7,11.29A1,1,0,1,0,6.11,12.7L11,7.83V19a1,1,0,0,0,2,0Z"/>
+  </g>
+  <rect id="dash" width="8" height="2" rx="1" transform="translate(16 7)" fill="#c3c3c3"/>
+</svg>

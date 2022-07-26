@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="370.613" viewBox="0 0 400 370.613">
+  <g id="Group_11" data-name="Group 11" transform="translate(-483 -264.675)">
+    <text id="Oops_Something_went_wrong" data-name="Oops! Something went wrong" transform="translate(513 628.288)" fill="#adb5bd" font-size="26" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">Oops! Something went wrong</tspan></text>
+    <g id="Group_10" data-name="Group 10" transform="translate(21)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="400" height="4" rx="2" transform="translate(462 582.288)" fill="#ced4da"/>
+      <text id="_500" data-name="500" transform="translate(662 558.288)" fill="#adb5bd" font-size="220" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-174.24" y="0">500</tspan></text>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(-11.492 -40.639)">
+      <path id="Path_1" data-name="Path 1" d="M692.709,364.41l-188.217,216h163.6l64.4-192.275Z" transform="translate(100 38.517)" fill="#f8f9fa" opacity="0.56" style="mix-blend-mode: lighten;isolation: isolate"/>
+      <g id="flashlight" transform="translate(833.525 430.85) rotate(-150)">
+        <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+          <g id="Group_1" data-name="Group 1">
+            <path id="Path_1-2" data-name="Path 1" d="M47.667,0H4.333A4.322,4.322,0,0,0,0,4.307v12.92H52V4.307A4.322,4.322,0,0,0,47.667,0Z" transform="translate(0 0)" fill="#ced4da"/>
+          </g>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(21.693 51.408)">
+          <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="4.307" cy="4.307" r="4.307" fill="#ced4da"/>
+          </g>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(0 20.948)">
+          <g id="Group_5" data-name="Group 5">
+            <path id="Path_2" data-name="Path 2" d="M52,0H0C0,10.306,3.432,19.526,8.84,25.84H8.667V81.826H43.333V25.84H43.16C48.568,19.526,52,10.306,52,0ZM26,43.066a8.613,8.613,0,1,1,8.667-8.613A8.646,8.646,0,0,1,26,43.066Z" fill="#ced4da"/>
+          </g>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(8.773 107.08)">
+          <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+            <path id="Path_3" data-name="Path 3" d="M0,0V8.613A4.308,4.308,0,0,0,4.307,12.92h25.84a4.308,4.308,0,0,0,4.307-4.307V0Z" fill="#ced4da"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

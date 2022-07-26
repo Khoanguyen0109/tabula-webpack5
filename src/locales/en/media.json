@@ -1,0 +1,18 @@
+{
+    "uploading": "Uploading",
+    "file": "file",
+    "file_plural": "files",
+    "filter_by_type": "Filter by type",
+    "upload_success": "Upload Success",
+    "choose_file": "Choose File",
+    "dropbox": "Dropbox",
+    "drive": "Drive", 
+    "upload_failed": "Upload failed",
+    "upload_file_failed": "File {{name}} upload failed!",
+    "upload_success_count": "{{success}}/{{total}} upload success.",
+    "Drag & Drop to Upload": "Drag & Drop to Upload",
+    "remove": "Remove",
+    "delete_media_error_message": "This file is being in use.",
+    "delete_media": "Delete {{name}}?",
+    "file_upload": "File Upload"
+}

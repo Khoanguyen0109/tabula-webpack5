@@ -1,0 +1,34 @@
+export const actions = {
+  SHOW_LOADING: 'SHOW_LOADING',
+  HIDE_LOADING: 'HIDE_LOADING',
+
+  DOWNLOAD: 'DOWNLOAD',
+  DOWNLOAD_SUCCESS: 'DOWNLOAD_SUCCESS',
+  DOWNLOAD_FAILED: 'DOWNLOAD_FAILED',
+
+  GET_LINK_TO_VIEW: 'GET_LINK_TO_VIEW',
+  GET_LINK_TO_VIEW_SUCCESS: 'GET_LINK_TO_VIEW_SUCCESS',
+  GET_LINK_TO_VIEW_FAILED: 'GET_LINK_TO_VIEW_FAILED',
+
+  RESET_FILE_PREVIEW: 'RESET_FILE_PREVIEW',
+  GLOBAL_ERROR: 'GLOBAL_ERROR',
+  SET_ERROR: 'SET_ERROR',
+
+  COMMON_SET_STATE: 'COMMON_SET_STATE',
+
+  RESET_ACTIONS: 'RESET_ACTIONS',
+
+};
+
+export const END_POINT = {
+  download: {
+    url: () =>
+      `${process.env.REACT_APP_API_URL}/download`,
+    method: 'POST'
+  },
+  get_link_to_view: {
+    url: () =>
+      `${process.env.REACT_APP_API_URL}/view`,
+    method: 'POST'
+  }
+};

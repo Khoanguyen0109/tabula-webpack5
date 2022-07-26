@@ -1,0 +1,22 @@
+{
+  "unit_name": "Unit Name",
+  "lessons": "Lessons",
+  "homework_assignment": "Homework/Assignment",
+  "tests": "Tests",
+  "class_schedule": "Class Schedule",
+  "day_number": "Day {{number}}",
+  "drag_course_info": "Drag Course Activities to All Sections or click “Add Activity” to planning.",
+  "all_sections": "All Sections",
+  "set_due_time": "Set Due Time",
+  "set_announced_time": "Set Announced Time",
+  "no_activities": "No Activities",
+  "show_planned_items": "Show planned items",
+  "planned": "Planned",
+  "due_on_with_day": "Due on {{day}}",
+  "announced_on_with_day": "Announced on {{day}}",
+  "publish_shadow_items_in_bulk": "Publish Section Items in Bulk",
+  "publish_all_shadow_items": "Publish all section items",
+  "publish_all": "Publish All",
+  "linked": "Linked",
+  "unlinked": "Unlinked"
+}

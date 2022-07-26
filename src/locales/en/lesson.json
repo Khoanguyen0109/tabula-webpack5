@@ -1,0 +1,19 @@
+{
+  "today": "Today",
+  "not_available": "Not Available",
+  "availability": "Availability",
+  "available": "Available",
+  "week": "Week",
+  "title_select_available_time_lesson": "This Work Time is Available. Pick it!",
+  "title_select_next_available_time_lesson": "Next Available Work Time. Pick it!",
+  "title_select_not_available_time_lesson": "Oh no, This Work Time is Not Available",
+  "title_select_date_lesson": "Select an available block for your lesson",
+  "title_select_month_lesson": "Select a Month",
+  "current_month": "Current Month",
+  "title_select_day_lesson": "Select a Day Which This Course Meets",
+  "lesson_name": "Lesson Name",
+  "lesson_description": "Lesson Description",
+  "assistant_teachers_name": "Assistant Teacher's Name",
+  "lesson_content": "Lesson Content",
+  "create_a_lesson": "Create a Lesson"
+}

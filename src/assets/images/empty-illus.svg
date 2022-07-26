@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="208" viewBox="0 0 400 208">
+  <g id="Group_4313" data-name="Group 4313" transform="translate(-612 -372)">
+    <g id="Group_4311" data-name="Group 4311">
+      <rect id="Rectangle_2947" data-name="Rectangle 2947" width="128" height="208" rx="12" transform="translate(612 372)" fill="#f6f6f7"/>
+      <rect id="Rectangle_2950" data-name="Rectangle 2950" width="256" height="208" rx="12" transform="translate(756 372)" fill="#f6f6f7"/>
+      <g id="bg" transform="translate(620 428)" fill="#fff" stroke="#258fd6" stroke-width="1">
+        <rect width="128" height="32" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="127" height="31" rx="7.5" fill="none"/>
+      </g>
+      <rect id="bg-2" data-name="bg" width="112" height="24" rx="8" transform="translate(620 396)" fill="#e1e3ea"/>
+      <rect id="bg-3" data-name="bg" width="112" height="24" rx="8" transform="translate(620 468)" fill="#e1e3ea"/>
+      <rect id="bg-4" data-name="bg" width="112" height="24" rx="8" transform="translate(620 500)" fill="#e1e3ea"/>
+      <rect id="Rectangle_2948" data-name="Rectangle 2948" width="16" height="16" rx="8" transform="translate(628 436)" fill="#258fd6"/>
+      <rect id="Rectangle_2949" data-name="Rectangle 2949" width="88" height="8" rx="4" transform="translate(652 440)" fill="#258fd6"/>
+      <g id="Group_4312" data-name="Group 4312" transform="translate(0 16)">
+        <rect id="bg-5" data-name="bg" width="192" height="16" rx="8" transform="translate(804 400)" fill="#e1e3ea"/>
+        <rect id="bg-6" data-name="bg" width="192" height="16" rx="8" transform="translate(804 464)" fill="#e1e3ea"/>
+        <rect id="bg-7" data-name="bg" width="192" height="16" rx="8" transform="translate(804 432)" fill="#e1e3ea"/>
+        <rect id="bg-8" data-name="bg" width="192" height="16" rx="8" transform="translate(804 496)" fill="#e1e3ea"/>
+        <rect id="bg-9" data-name="bg" width="192" height="16" rx="8" transform="translate(804 528)" fill="#e1e3ea"/>
+        <rect id="bg-10" data-name="bg" width="24" height="24" rx="12" transform="translate(772 396)" fill="#e1e3ea"/>
+        <rect id="bg-11" data-name="bg" width="24" height="24" rx="12" transform="translate(772 460)" fill="#e1e3ea"/>
+        <rect id="bg-12" data-name="bg" width="24" height="24" rx="12" transform="translate(772 428)" fill="#e1e3ea"/>
+        <rect id="bg-13" data-name="bg" width="24" height="24" rx="12" transform="translate(772 492)" fill="#e1e3ea"/>
+        <rect id="bg-14" data-name="bg" width="24" height="24" rx="12" transform="translate(772 524)" fill="#e1e3ea"/>
+      </g>
+    </g>
+    <rect id="bg-15" data-name="bg" width="80" height="16" rx="8" transform="translate(772 388)" fill="#e1e3ea"/>
+    <rect id="bg-16" data-name="bg" width="56" height="16" rx="8" transform="translate(860 388)" fill="#e1e3ea"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "my_profile": "My Profile",
+  "information": "Information",
+  "password": "Password",
+  "current_password": "Current Password",
+  "new_password": "New Password",
+  "confirm_new_password": "Confirm New Password",
+  "bedtime_preference": "Bedtime Preference",
+  "bedtime": "Bedtime",
+  "wake_up": "Wake Up",
+  "wake_up_time": "Wake-up Time",
+  "welcome_to_tabula": "Welcome to Tabula Learning",
+  "welcome_to_tabula_content": "We’re asking for your phone number so that we can send you an invitation to our mobile app. We won’t share it with any third parties, nor will we use it for anything other than sending you this invitation.",
+  "bed_time_instruction": "Please key in your bedtime preference so that we can send you personalized notifications which fit into your schedule.",
+  "we_are_all_set" : "We’re All Set",
+  "thank_you": "And thank you for participating in our pilot program.",
+  "thank_you_content": "Over the course of the next semester we will be working with you to help you turn in assignments on time.",
+  "intro_video": "Before you get started, take a moment to watch our short training video.",
+  "im_ready": "I’m Ready. Let’s Go!",
+  "select_school_year": "Select a School Year"
+}

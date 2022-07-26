@@ -1,0 +1,16 @@
+{
+  "import_from_file": "Import From File",
+  "import": "Import",
+  "template_guide": "All files must be uploaded using the correct template file.",
+  "upload_and_import": "Import",
+  "only_accept_xlsx": "Only the .xlsx extension is allowed. Refer to the template file for more details.",
+  "max_size_import": "This file is too large to be uploaded. The maximum file size is 10MB.",
+  "download_template": "Download Template Here",
+  "we_are_importing_your_file": "We are importing your file.",
+  "importing_subtitle": "You can close this modal and your import will run in the background.",
+  "imported_successfully": "Import Successfully",
+  "imported_failed": "Import failed",
+  "imported_failed_subtitle": "The format is not valid. Refer to the template file for the more details.",
+  "importing_file:": "Importing",
+  "importing": "Importing"
+}

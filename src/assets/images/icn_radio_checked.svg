@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icn_radio_checked" clip-path="url(#clip-path)">
+    <path id="icn_radio_selected" d="M12-2838a11.921,11.921,0,0,1-8.485-3.515A11.923,11.923,0,0,1,0-2850a11.921,11.921,0,0,1,3.515-8.485A11.921,11.921,0,0,1,12-2862a11.923,11.923,0,0,1,8.486,3.515A11.921,11.921,0,0,1,24-2850a11.923,11.923,0,0,1-3.515,8.486A11.922,11.922,0,0,1,12-2838Zm0-16a4,4,0,0,0-4,4,4,4,0,0,0,4,4,4.005,4.005,0,0,0,4-4A4,4,0,0,0,12-2854Z" transform="translate(0 2862)" fill="#258fd6"/>
+  </g>
+</svg>

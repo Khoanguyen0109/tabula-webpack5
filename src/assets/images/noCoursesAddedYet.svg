@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302" height="208" viewBox="0 0 302 208">
+  <g id="Group_4508" data-name="Group 4508" transform="translate(-532 -292)">
+    <g id="Group_4311" data-name="Group 4311" transform="translate(-134 -80)">
+      <rect id="Rectangle_2950" data-name="Rectangle 2950" width="302" height="208" rx="12" transform="translate(666 372)" fill="#f6f6f7"/>
+    </g>
+    <g id="bg" transform="translate(548 316)" fill="#fff" stroke="#e1e3ea" stroke-linecap="round" stroke-width="2" stroke-dasharray="4">
+      <rect width="80" height="58" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="78" height="56" rx="7" fill="none"/>
+    </g>
+    <g id="bg-2" data-name="bg" transform="translate(643 316)" fill="#fff" stroke="#e1e3ea" stroke-linecap="round" stroke-width="2" stroke-dasharray="4">
+      <rect width="80" height="58" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="78" height="56" rx="7" fill="none"/>
+    </g>
+    <g id="bg-3" data-name="bg" transform="translate(738 316)" fill="#fff" stroke="#e1e3ea" stroke-linecap="round" stroke-width="2" stroke-dasharray="4">
+      <rect width="80" height="58" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="78" height="56" rx="7" fill="none"/>
+    </g>
+    <rect id="Rectangle_2991" data-name="Rectangle 2991" width="40" height="6" rx="3" transform="translate(552 388)" fill="#e1e3ea"/>
+    <rect id="Rectangle_2989" data-name="Rectangle 2989" width="64" height="6" rx="3" transform="translate(647 378)" fill="#e1e3ea"/>
+    <rect id="Rectangle_2992" data-name="Rectangle 2992" width="40" height="6" rx="3" transform="translate(647 388)" fill="#e1e3ea"/>
+    <rect id="Rectangle_2990" data-name="Rectangle 2990" width="64" height="6" rx="3" transform="translate(742 378)" fill="#e1e3ea"/>
+    <rect id="Rectangle_2993" data-name="Rectangle 2993" width="40" height="6" rx="3" transform="translate(742 388)" fill="#e1e3ea"/>
+    <rect id="Rectangle_2994" data-name="Rectangle 2994" width="64" height="6" rx="3" transform="translate(552 378)" fill="#e1e3ea"/>
+  </g>
+</svg>

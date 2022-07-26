@@ -1,0 +1,16 @@
+{
+  "search_guardians": "Search Guardians...",
+  "guardians": "Guardians",
+  "edit_guardian": "Edit Guardian",
+  "invite_new_guardian": "Invite New Guardian",
+  "view_student_list": "View Student List",
+  "delete_guardian": "Delete Guardian",
+  "restore_guardian": "Restore Guardian",
+  "suspend_guardian": "Suspend Guardian",
+  "guardian_has_not_confirmed_new_email_address": "Guardian has not confirmed new email address",
+  "guardian_not_accept_invitation": "Guardian has not accepted invitation.",
+  "guardian_expired": "Guardian has been expired.",
+  "guardian_locked": "Guardian has been locked.",
+  "guardian_has_not_reset_password": "Guardian is requested to reset password.",
+  "guardian_suspended": "Guardian has been suspended."
+}

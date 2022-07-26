@@ -1,0 +1,14 @@
+{
+    "google_document": "Google Document",
+    "connect_an_account" : "Connect to your Google account",
+    "authorize_again": "Authorize again",
+    "authorize_with_google": "Authorize with Google",
+    "missing_permission_message" : "To continue, you must provide Tabula the permission to view/manage your Google Drive files.",
+    "miss_match_email_message" : "To continue, you must authorize {{email}} account to view/manage your Google Drive files.",
+    "oauth_google_message": "To continue, you must authorize your Google account. ",
+    "account_already_exists_message": "Someone already uses this Google account. To continue, you must connect to another Google account and provide Tabula the permission to view/manage your Google Drive files.",
+    "use_as_template": "Use as template",
+    "use_template": "Use template",
+    "only_1_file_is_selected_as_template": "Only 1 file is selected as template",
+    "no_google_document": "No Google Document"
+}
